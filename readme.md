@@ -63,10 +63,10 @@
 <!-- About the Project -->
 ## :star2: About the Project
 
-
+https://id.shp.ee/4rattiZa
 <!-- Screenshots -->
 ### :camera: Screenshots
-
+maximal rp.10.000
 <div align="center"> 
   <img src="https://raw.githubusercontent.com/aaafarrr/Bot-Shopee-Flash-Sale-Auto-Checkout/main/CCTV.jpeg" alt="screenshot" />
   <img src="https://raw.githubusercontent.com/aaafarrr/Bot-Shopee-Flash-Sale-Auto-Checkout/main/Steamer.jpeg" alt="screenshot" />
@@ -82,7 +82,7 @@
 ### :dart: Features
 
 - Auto Checkout.
-
+nominal rp 10.000
 <!-- Getting Started -->
 ## 	:toolbox: Getting Started
 
